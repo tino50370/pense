@@ -10657,6 +10657,7 @@ span.select2-selection.select2-selection--single:focus {
   padding: 30px;
   position: relative;
   margin-top: 10px;
+  left: 45px;
   /* Medium devices */
 }
 .counter-card:after {
